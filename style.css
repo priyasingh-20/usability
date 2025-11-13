@@ -254,3 +254,9 @@ footer{
 .col-menu a{
     color: var(--primary-text-color);
 }
+.sub-footer{
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    padding: var(--padding-inline-section);
+}
