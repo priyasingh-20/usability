@@ -230,7 +230,7 @@ ul {
     gap: 40px;
     padding-block: 100px;
 }
-.cta-section h2, p{
+.cta-section h2{
     color: white !important;
 }
 /* footer */
